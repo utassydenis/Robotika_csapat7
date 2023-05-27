@@ -14,8 +14,35 @@ A mi projektunk egy olyan eszköz lenne, amely érzékelők és/vagy motor forga
 - ellenállások
 
 ## 3. Használati esetek (működés)
-- 2 motor fény és hőmérséklet hatására mozogni fog
-- keypad segítségével manuálisan lehet mozgatni a motorokat
+- 2 motor fény és hőmérséklet hatására képes mozogni
+
+- keypad segítségével lehet beaállítani a különböző állapotokat
+
+- alapvetően üres állapotban van, a távirányítóval szükséges kezelni
+
+1. 4 gomb van:
+
+	- Az A gomb lenyomása után meg lehet adni neki egy n számot.
+
+		- A csillag lenyomásával lementi azt a számot a távolság változóba.
+
+		- A # lenyomásával pedig törli a változó értékét.
+
+	- A B állatpot automatikus állapotba teszi.
+
+		- Ha meghalad egy bizonyos fény és hőmérsékletmennyiséget akkor behúzza a függönyt.
+
+		- Ha nem, akkor pedig ki. (És operátor van a 2 érték között)
+
+	- A C gomb lenyomásával manuális állapotba állítjuk.
+
+		- Olyankor a * lenyomásával be, a # lenyomásával kihúzza a függyönyt
+
+	- A D gomb lenyomásával előzlsször a hőmérsékletlimitet állítjuk be, hogy mikortól húzza be a függyönyt.
+
+		- Aztán a * egyszeri lenyomásával a fény értéket ugyan így.
+
+		- A # minden esetben törli mindkét értéket.
 
 ## 4. Képernyőtervek (sematikus rajz és CAD tervrajz)
 - Sematikus rajzok:

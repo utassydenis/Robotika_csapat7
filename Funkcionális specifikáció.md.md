@@ -72,6 +72,9 @@ Gomb lenyomások jelölése:
 - C: a gomb lenyomása
 - D: a gomb lenyomása
 - *: mentés
-- #: törlés 
+- #: törlés
+
+![allapotatmenetgraf](https://github.com/utassydenis/Robotika_csapat7/assets/114164351/9f3f1f5f-94a3-4f3e-aa5c-3137e7fe01f9)
+
 
 

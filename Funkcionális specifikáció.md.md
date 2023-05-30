@@ -53,4 +53,25 @@ A mi projektunk egy olyan eszköz lenne, amely érzékelők és/vagy motor forga
 <img width="417" alt="CAD" src="https://github.com/utassydenis/Robotika_csapat7/assets/114164351/4a81738d-9550-4e78-aa51-a29e54c31b3e">
 
 ## 5. Forgatókönyvek (állapotátmenet gráf)
+Jelölések:
+- FK: függöny nincsen behúzva
+- FB: függöny behúzva
+- FBH: függöny behúzása
+- FKH: függöny kihúzása
+- AU: automatikus
+- M: manuális
+- HL: hőmérsékletlimit
+- FE: fény érték
+- SZ: szám
+- TV: távolsági változó lementése
+- FÉH: fény és hőmérséklet meghaladása után
+ 
+Gomb lenyomások jelölése: 
+- A: a gomb lenyomása
+- B: a gomb lenyomása
+- C: a gomb lenyomása
+- D: a gomb lenyomása
+- *: mentés
+- #: törlés 
+
 
